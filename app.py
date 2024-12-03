@@ -3,7 +3,7 @@ import pandas as pd
 
 import streamlit as st
 
-st.title("Palmer's Penguins")
+st.title("Dezmon's Penguins")
 st.markdown("Use this Streamlit app to make your own scatterplot about penguins!")
 
 
